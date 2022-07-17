@@ -2,7 +2,11 @@
 
 ![Argon's GitHub stats](https://github-readme-stats.vercel.app/api?username=argo0n&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argo0n&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argo0n&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Discord Banner](https://discord.c99.nl/widget/theme-4/650647680837484556.png#gh-dark-mode-only)
+![Discord Banner](https://discord.c99.nl/widget/theme-5/650647680837484556.png#gh-light-mode-only)
+
 <!--
 **argo0n/argo0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
