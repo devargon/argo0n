@@ -4,10 +4,10 @@
 
 
 ## My GitHub statistics
-![Argon's GitHub stats](https://github-readme-stats.vercel.app/api?username=argo0n&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argo0n&theme=tokyonight&layout=compact)]
+![Argon's GitHub stats](https://github-readme-stats.vercel.app/api?username=argo0n&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argo0n&theme=tokyonight&layout=compact)
 
-- 🔭 I’m currently working on Dank Vibes Bot, an exclusive Discord bot written in Python.
-- 🌱 I’m currently learning Javascript, Python and Web Development!
+- 🔭 I’m currently working on Dank Vibes Bot, an exclusive Discord bot written in Python with the [Pycord library](https://github.com/Pycord-Development/pycord).
+- 🌱 I’m currently learning Javascript, Python and HTML/CSS web development.
 - 😄 Pronouns: He/Him
 
 
