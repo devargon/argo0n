@@ -4,7 +4,7 @@
 
 ## 🚹 He/Him
     
-![Argon's GitHub stats](https://github-readme-stats.vercel.app/api?username=argo0n&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argo0n&theme=tokyonight&layout=compact)
+![Argon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devargon&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devargon&theme=tokyonight&layout=compact)
 ![Argon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Argon&layout=compact)
 
       
